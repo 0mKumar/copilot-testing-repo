@@ -1,0 +1,16 @@
+# Compiled binaries
+hello_world_c
+*.class
+*.o
+*.exe
+
+# Temporary files
+*.tmp
+.DS_Store
+*~
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
