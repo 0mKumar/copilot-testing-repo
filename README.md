@@ -11,6 +11,15 @@ This repository serves as a testing ground and demonstration platform for coding
 ### Basic Hello World
 The classic first program - a simple greeting to the world!
 
+We provide actual working examples in the [`examples/`](examples/) directory:
+
+- **Python**: [`examples/hello.py`](examples/hello.py) - Function-based implementation with proper main guard
+- **JavaScript**: [`examples/hello.js`](examples/hello.js) - Both function and direct console.log approaches  
+- **Java**: [`examples/HelloWorld.java`](examples/HelloWorld.java) - Standard class-based Java structure
+- **Bash**: [`examples/hello.sh`](examples/hello.sh) - Simple shell script for command-line use
+
+Run any example to see the classic "Hello, World!" output. See the [examples README](examples/README.md) for detailed usage instructions.
+
 ### What This Repository Demonstrates
 
 This repository is designed to showcase how coding agents can:
