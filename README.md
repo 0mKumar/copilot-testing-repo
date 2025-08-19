@@ -11,6 +11,18 @@ This repository serves as a testing ground and demonstration platform for coding
 ### Basic Hello World
 The classic first program - a simple greeting to the world!
 
+### Coffee Maker Simulation
+A fun interactive program that simulates making a cup of coffee! Run `python3 coffee_maker.py` to brew your virtual coffee.
+
+Features:
+- ☕ Realistic coffee brewing simulation
+- 🔥 Water heating with temperature monitoring
+- 📋 Ingredient checking (water and coffee grounds)
+- ⏱️ Brewing process with visual feedback
+- 🍃 Random coffee varieties for variety
+
+Try it out: `python3 coffee_maker.py`
+
 ### What This Repository Demonstrates
 
 This repository is designed to showcase how coding agents can:
@@ -34,6 +46,28 @@ This repository is designed to showcase how coding agents can:
 - **Refactoring**: Optimize and clean up existing code
 - **Testing**: Create test cases and validation scripts
 - **Feature Addition**: Add new functionality following existing patterns
+- **Interactive Simulations**: Create engaging programs like the coffee maker example
+
+## Code Examples
+
+This repository now includes practical code examples:
+
+### 🔧 Coffee Maker Simulation (`coffee_maker.py`)
+A complete Python program demonstrating:
+- Object-oriented programming with proper class structure
+- Error handling and input validation
+- Simulated real-world processes with timing
+- Interactive user experience with emojis and clear feedback
+- Comprehensive testing with `test_coffee_maker.py`
+
+**Usage:**
+```bash
+# Run the coffee maker
+python3 coffee_maker.py
+
+# Run the tests
+python3 test_coffee_maker.py
+```
 
 ## How GitHub Copilot Works
 
