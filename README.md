@@ -11,6 +11,19 @@ This repository serves as a testing ground and demonstration platform for coding
 ### Basic Hello World
 The classic first program - a simple greeting to the world!
 
+### CLI Application
+A simple command-line interface that demonstrates basic command processing. Run with:
+```bash
+python3 cli.py
+```
+
+Available commands:
+- `help` - Show available commands
+- `hello world` - Display a greeting message
+- `verify <id>:<uuid>` - Verify ID with UUID format
+- `signin` - Sign in to the system
+- `exit` or `quit` - Exit the CLI
+
 ### What This Repository Demonstrates
 
 This repository is designed to showcase how coding agents can:
@@ -26,6 +39,24 @@ This repository is designed to showcase how coding agents can:
 2. Explore the simple structure
 3. Use your coding agent to make improvements
 4. Test different coding agent features and capabilities
+
+#### Try the CLI Demo
+Run the command-line interface to see the implementation:
+```bash
+# Interactive mode
+python3 cli.py
+
+# Run specific commands
+python3 cli.py help
+python3 cli.py "hello world"
+python3 cli.py "verify 304485:ca56d739-d144-4e84-a7ae-76c8da73214c"
+
+# Run the demo script
+python3 demo.py
+
+# Run tests
+python3 test_cli.py
+```
 
 ### Example Use Cases for Coding Agents
 
