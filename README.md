@@ -2,6 +2,8 @@
 
 Hello world! Welcome to the coding agent demonstration repository.
 
+10
+
 ## Purpose
 
 This repository serves as a testing ground and demonstration platform for coding agents and AI-powered development tools. It provides simple examples and scenarios for testing various coding agent capabilities.
