@@ -1,4 +1,4 @@
-# Copilot Testing Repository - Coding Agent Demo
+# Brown fox
 
 Hello world! Welcome to the coding agent demonstration repository.
 
