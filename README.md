@@ -11,6 +11,14 @@ This repository serves as a testing ground and demonstration platform for coding
 ### Basic Hello World
 The classic first program - a simple greeting to the world!
 
+This repository includes actual hello world implementations in multiple languages:
+
+- **Python**: `hello.py` - Run with `python3 hello.py`
+- **JavaScript/Node.js**: `hello.js` - Run with `node hello.js`  
+- **Shell Script**: `hello.sh` - Run with `./hello.sh`
+
+Each implementation demonstrates the same simple greeting in different programming languages, providing a foundation for testing coding agent capabilities across multiple language ecosystems.
+
 ### What This Repository Demonstrates
 
 This repository is designed to showcase how coding agents can:
