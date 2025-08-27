@@ -11,6 +11,9 @@ This repository serves as a testing ground and demonstration platform for coding
 ### Basic Hello World
 The classic first program - a simple greeting to the world!
 
+### Basic Math Example
+Simple calculation: 34 - 20 = 14
+
 ### What This Repository Demonstrates
 
 This repository is designed to showcase how coding agents can:
