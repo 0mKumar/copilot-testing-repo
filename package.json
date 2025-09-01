@@ -1,0 +1,25 @@
+{
+  "name": "copilot-testing-repo",
+  "version": "1.0.0",
+  "description": "A testing ground for coding agents and AI-powered development tools",
+  "main": "hello.js",
+  "scripts": {
+    "start": "node hello.js",
+    "test": "node test/test_hello.js",
+    "test:python": "python3 hello.py",
+    "test:java": "javac Hello.java && java Hello",
+    "serve": "python3 -m http.server 8000"
+  },
+  "keywords": [
+    "hello-world",
+    "copilot",
+    "coding-agent",
+    "demo",
+    "testing"
+  ],
+  "author": "Coding Agent Demo",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
