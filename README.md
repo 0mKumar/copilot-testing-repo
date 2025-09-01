@@ -8,6 +8,46 @@ This repository serves as a testing ground and demonstration platform for coding
 
 ## Hello World Examples
 
+This repository now includes actual Hello World examples in multiple programming languages for coding agents to analyze, modify, and test:
+
+### Available Examples
+
+- **`hello.py`** - Python Hello World with basic functions and string formatting
+- **`hello.js`** - JavaScript Hello World with module exports for testing
+- **`Hello.java`** - Java Hello World with proper class structure and documentation
+- **`hello.html`** - Interactive HTML page with styling and JavaScript functionality
+
+### Running the Examples
+
+```bash
+# Python
+python3 hello.py
+
+# JavaScript (Node.js)
+node hello.js
+
+# Java
+javac Hello.java && java Hello
+
+# HTML (start a local server)
+npm run serve
+# Then open http://localhost:8000/hello.html in your browser
+```
+
+### Testing
+
+The repository includes a comprehensive test suite to validate all examples:
+
+```bash
+# Run all tests
+npm test
+
+# Or run individual language tests
+npm run test:python
+npm run test:java
+node hello.js
+```
+
 ### Basic Hello World
 The classic first program - a simple greeting to the world!
 
@@ -24,8 +64,23 @@ This repository is designed to showcase how coding agents can:
 
 1. Clone this repository
 2. Explore the simple structure
-3. Use your coding agent to make improvements
-4. Test different coding agent features and capabilities
+3. Run the examples to see them in action
+4. Use your coding agent to make improvements
+5. Test different coding agent features and capabilities
+
+### Repository Structure
+
+```
+copilot-testing-repo/
+├── README.md              # This documentation
+├── package.json           # Node.js project configuration
+├── hello.py              # Python Hello World example
+├── hello.js              # JavaScript Hello World example  
+├── Hello.java            # Java Hello World example
+├── hello.html            # HTML Hello World with interactivity
+└── test/
+    └── test_hello.js     # Comprehensive test suite
+```
 
 ### Example Use Cases for Coding Agents
 
