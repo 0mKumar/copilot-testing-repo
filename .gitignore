@@ -1,0 +1,23 @@
+# Java compiled classes
+*.class
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Go binaries
+hello
+
+# Node.js
+node_modules/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
