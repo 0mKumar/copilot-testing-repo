@@ -11,6 +11,36 @@ This repository serves as a testing ground and demonstration platform for coding
 ### Basic Hello World
 The classic first program - a simple greeting to the world!
 
+This repository now includes working hello world examples in multiple programming languages:
+
+#### Python
+```bash
+python3 hello.py
+```
+
+#### JavaScript (Node.js)
+```bash
+node hello.js
+```
+
+#### Go
+```bash
+go run hello.go
+```
+
+#### Java
+```bash
+javac Hello.java && java Hello
+```
+
+#### Run All Examples
+For convenience, you can run all hello world examples at once:
+```bash
+./run_all_examples.sh
+```
+
+Each program demonstrates the basic syntax and structure of its respective language while accomplishing the same simple task: printing "Hello, World!" to the console.
+
 ### What This Repository Demonstrates
 
 This repository is designed to showcase how coding agents can:
