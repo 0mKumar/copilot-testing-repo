@@ -16,7 +16,7 @@ Dinosaurs are classified into two main groups based on their hip structure:
 - **Ornithopods**: Herbivores with specialized teeth for grinding plants
   - Examples: Iguanodon, Parasaurolophus, Hadrosaurus
 - **Thyreophora**: Armored dinosaurs
-  - Examples: Stegosaurus, Ankylosaurus, Triceratops
+  - Examples: Stegosaurus, Ankylosaurus
 - **Marginocephalia**: Dinosaurs with distinctive head crests or frills
   - Examples: Pachycephalosaurus, Triceratops
 
